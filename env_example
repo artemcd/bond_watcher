@@ -1,0 +1,2 @@
+TINVEST_TOKEN="PUT_YOUR_TINVEST_SANDBOX_TOKEN_HERE"
+DATABASE_URL="postgresql+asyncpg://postgres:postgres@db:5432/bond_watcher"
